@@ -1,6 +1,6 @@
 # lucasrh13
 
-<h1>Hi, I'm <a href="https://github.com/lucasrh13">Lucas Hartford</a>! <br>Cybersecurity Professional</br>
+<h2>Hi, I'm <a href="https://github.com/lucasrh13">Lucas Hartford</a>! <br>Cybersecurity Professional</br>
 
 <h2> Cybersecurity Projects:</h2>
 
@@ -16,7 +16,7 @@
 - 💬 Ask me about my national parks adventures!
 - 📫 How to reach me: lucas.hartford@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a dedicated, but mediocre fisherman and I sometimes have accidental close-encounters with bears.
+- ⚡ Fun fact: I'm a dedicated, but mediocre fisherman and I sometimes have close-encounters with bears.
 
 <h2> 🤳 Connect with me:</h2>
 
