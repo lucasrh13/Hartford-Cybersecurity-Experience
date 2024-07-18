@@ -12,10 +12,11 @@ I'm a life-long learner and I use this repo to document my educational escapades
 - <b>Security Monitoring Labs</b>
   - [Splunk Mock Cyber Attack](https://github.com/lucasrh13/Splunk-Monitoring)
   - [Elastic Stack Homemade Monitoring Environment](https://github.com/lucasrh13/Elastic-Monitoring)
-
+ 
 <h2> Python Projects:</h2>
--<b>Binary to Hex to ASCII Converter</b>
--[Pyhton Code Here](https://github.com/lucasrh13/Python-Pojects)
+
+- <b>Binary to Hex to ASCII Converter</b>
+  -[Pyhton Code Here](https://github.com/lucasrh13/Python-Pojects)
  
 <h2>About Me</h2>
 
