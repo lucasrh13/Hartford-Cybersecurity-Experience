@@ -1,6 +1,6 @@
 # lucasrh13
 
-<h1>Hi, I'm <a href="https://github.com/lucasrh13">Lucas Hartford</a>!></h1>
+<h1>Hi, I'm <a href="https://github.com/lucasrh13">Lucas Hartford</a>!</h1>
 I'm a life-long learner and I use this repo to document my educational escapades.
 
 <h2> Cybersecurity Projects:</h2>
