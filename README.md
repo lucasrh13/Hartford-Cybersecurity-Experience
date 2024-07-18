@@ -9,7 +9,7 @@ I'm a life-long learner and I use this repo to document my educational escapades
   - [Penetration Testing Against Simulated Corporation](https://github.com/lucasrh13/Penetration-Testing)
 - <b>Microsoft Azure Cloud-Hosted Web Application</b>
   - [Azure Web-App](https://github.com/lucasrh13/Azure-Web-App) 
-- b>Security Monitoring Labs</b>
+- <b>Security Monitoring Labs</b>
   - [Splunk Mock Cyber Attack](https://github.com/lucasrh13/Splunk-Monitoring)
   - [Elastic Stack Homemade Monitoring Environment](https://github.com/lucasrh13/Elastic-Monitoring)
 
