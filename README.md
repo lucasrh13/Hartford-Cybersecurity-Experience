@@ -1,7 +1,6 @@
 # lucasrh13
 
-<h1>Hi, I'm <a href="https://github.com/lucasrh13">Lucas Hartford</a>!
-<h3>Cybersecurity Professional</h3>
+<h1>Hi, I'm <a href="https://github.com/lucasrh13">Lucas Hartford</a>! <br>Cybersecurity Professional</br>
 
 <h2> Cybersecurity Projects:</h2>
 
