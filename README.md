@@ -15,7 +15,7 @@
 
 [linkedin]: https://www.linkedin.com/in/lucas-hartford-492727206
 
-<!--
+<br></br>
 
 - 🔭 I’m currently working on automating complex security procedures.
 - 🌱 I’m currently learning Python.
