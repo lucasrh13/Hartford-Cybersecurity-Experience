@@ -12,9 +12,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LucasHartford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://www.linkedin.com/in/lucas-hartford-492727206/
 
+[br]
 
 - 🔭 I’m currently working on automating complex security procedures.
 - 🌱 I’m currently learning Python.
