@@ -8,6 +8,8 @@
   - [Penetration Testing Against Simulated Corporation](https://github.com/lucasrh13/Penetration-Testing)
 - <b>Microsoft Azure Cloud-Hosted Web Application</b>
   - [Azure Web-App](https://github.com/lucasrh13/Azure-Web-App)
+ 
+<h2>About Me</h2>
 
 - 🔭 I’m currently working on automating complex security procedures.
 - 🌱 I’m currently learning Python.
