@@ -17,7 +17,7 @@ I'm a life-long learner and I use this repo to document my educational escapades
 <h2> Python Projects:</h2>
 
 - <b>Binary to Hex to ASCII Converter</b>
-  - [Pyhton Code Here](https://github.com/lucasrh13/Python-Pojects)
+  - [Pyhton Code Here](https://github.com/lucasrh13/Python-Projects)
  
 <h2>About Me</h2>
 
