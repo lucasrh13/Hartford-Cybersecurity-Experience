@@ -19,14 +19,13 @@ I'm a life-long learner and I use this repo to document my educational escapades
  
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on automating complex security procedures.
-- 🌱 I’m currently learning Python.
-- 💬 Ask me about my national parks adventures!
 - 📫 How to reach me: lucas.hartford@outlook.com
+- 🌱 I’m currently learning Python with the intentention of using code to automate some aspects of incident response. I believe rapid response to an intrusion is critical to minimize the impact of a cyber attack.
+- 💬 Ask me about my national parks adventures!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a dedicated, but mediocre fisherman and I sometimes have close-encounters with bears.
 
-<h2> 🤳 Connect with me:</h2>
+🤳 Connect with me on LinkedIn 
 
 [<img align="left" alt="LucasHartford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
