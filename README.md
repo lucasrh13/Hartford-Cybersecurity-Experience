@@ -34,7 +34,7 @@ For the last year or so, I've been focusing on the IT basics. I've practiced up 
 - 📫 How to reach me: lucas.hartford@outlook.com
 - 🌱 I’m currently learning Python with the intentention of using code to automate some aspects of incident response. I believe rapid response to an intrusion is critical to minimize the impact of a cyber attack.
 - 💬 Ask me about my national parks adventures!
-- &#129406 Cybersecurity Bootcamp graduate - ask me what I thought of it!
+- &#129406; Cybersecurity Bootcamp graduate - ask me what I thought of it!
 - ⚡ Fun fact: I'm a dedicated, but mediocre fisherman and I sometimes have close-encounters with bears.
 - 😄 Pronouns: he/him
 - 🤳 Connect with me on LinkedIn [<img align="center" alt="LucasHartford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
