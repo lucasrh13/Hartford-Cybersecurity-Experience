@@ -32,7 +32,7 @@ For the last year or so, I've been focusing on the IT basics. I've practiced up 
 </p>
 
 - 📫 How to reach me: lucas.hartford@outlook.com
-- &#128013; I’m currently learning Python with the intentention of using code to automate some aspects of intrusion response. I believe rapid response to an intrusion is critical to minimize the impact of a cyber attack.
+- &#128013; I’m currently learning Python with the intentention of using code to automate some aspects of intrusion response.
 - &#9978; Ask me about my national parks adventures!
 - &#129406; Cybersecurity bootcamp graduate - ask me what I thought of it!
 - &#127907; Fun fact: I'm a dedicated, but mediocre fisherman and I sometimes have close-encounters with bears.
