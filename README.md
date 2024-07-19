@@ -1,7 +1,7 @@
 # lucasrh13
 
 <h1>Hi, I'm <a href="https://github.com/lucasrh13">Lucas Hartford</a>!</h1>
-I'm a life-long learner and I'll be documenting my educational escapades here from moving forward.
+I'm a life-long learner and I'll be documenting my educational escapades here moving forward.
 
 <h2>Cybersecurity Projects:</h2>
 
