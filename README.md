@@ -37,7 +37,7 @@ For the last year or so, I've been focusing on the IT basics. I've practiced up 
 - &#129406; Cybersecurity bootcamp graduate - ask me what I thought of it!
 - &#127907; Fun fact: I'm a dedicated, but mediocre fisherman and I sometimes have close-encounters with bears while searching for the best fishing spot.
 - &#128104; Pronouns: he/him
-- &#128279; Connect with me on LinkedIn: [<img align="center" alt="LucasHartford | LinkedIn" width="100px" src="https://1drv.ms/f/c/47d5b0438000f3e0/QuDzAIBDsNUggEdxHQAAAAAAgANZv5RG9mYdcw" />][linkedin]
+- &#128279; Connect with me on LinkedIn: [<img align="center" alt="LucasHartford | LinkedIn" width="100px" src="https://1drv.ms/i/c/47d5b0438000f3e0/IQOrgBWjulrKTItbAMA5-oBUAcHxEfL3_D-5_92zbgBxx7s?" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/lucas-hartford-492727206
 
